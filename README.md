@@ -5,7 +5,7 @@
 	- Data Driven Documents
 	- Mike Bostok's Baby
 	- A javascript framework that at it's heart is a bunch of linear interpolation. 
-	- grammer of graphics
+	- grammar of graphics
 - Why is data visualization important?
 	- It is a form of empathy
 	- A method of conveying knowledge accross disciplinary boundries. 
