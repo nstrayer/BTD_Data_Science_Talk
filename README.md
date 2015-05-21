@@ -17,5 +17,5 @@
 		- Tell other's what's going on in the data (DANGER) (correlation causation website). 
 - Examples of awesome d3 visualizations
 	- Hedonometer
-	- Elija Meeks work
+	- Elijah Meeks work
 - One or two of mine, and how I start/ finish. 
